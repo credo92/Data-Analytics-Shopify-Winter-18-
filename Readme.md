@@ -3,4 +3,4 @@
 ### Metric Used : Sum of All Order Amounts / Sum of Total Items in Each order
 
 
-! [Screenshot] (\Data-Analytics-Shopify.png "ingame.jpg")
+![Screenshot software](https://github.com/credo92/Data-Analytics-Shopify-Winter-18-/blob/master/Data-Analytics-Shopify.png "screenshot software")
